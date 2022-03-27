@@ -1,5 +1,5 @@
 # <div align="center"> Bookmark API  </div> #
-#### Project developed to establish knowledge about backend and the ***NEST JS*** framework ####
+<h4 text-align="center"> Project developed to establish knowledge about backend and the ***NEST JS*** framework </h4>
 <div align="center"> <img src="https://img.shields.io/badge/NestJS-red" > <img src="https://img.shields.io/badge/Jest-green"> <img src="https://img.shields.io/badge/Prisma-grey"> <img src="https://img.shields.io/badge/Docker-blue"> <img src="https://img.shields.io/badge/Yarn-lightblue"> </div>
 
 <div align="center"> ![](https://img.shields.io/badge/MVC-Model_View_Controller-yellow) </div>
