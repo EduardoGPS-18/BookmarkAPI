@@ -27,10 +27,10 @@
 
 
 <div align="center">
-    <h4> Design Patterns </h4>
+    <h4 text-align="center"> Design Patterns </h4>
     <ul>
-        <p> Decorator </p>
-        <p> Strategy </p>
+        <p text-align="center"> Decorator </p>
+        <p text-align="center"> Strategy </p>
     </ul>
 </div>
 
