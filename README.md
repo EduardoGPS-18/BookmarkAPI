@@ -8,7 +8,7 @@
 
 <div>
     <h4 align="center"> Technologies </h4>
-    <ul>
+    <ul align="center">>
         <li> Nest JS ( as Framework ) </li>
         <li> Jest & Pactum ( as Testing Framework ) </li>
         <li> Prisma ( as ORM ) </li>
