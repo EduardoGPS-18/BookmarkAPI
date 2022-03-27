@@ -6,25 +6,25 @@
 
 <div align="center"> <img src=https://img.shields.io/badge/Decorator-lightred> <img src=https://img.shields.io/badge/Strategy-lightgrey> </div>
 
-<div>
-    <h4 align-content="center"> Technologies </h4>
+<div align="center">
+    <h4> Technologies </h4>
     <ul>
-        <li align="center"> Nest JS ( as Framework ) </li>
-        <li align="center"> Jest & Pactum ( as Testing Framework ) </li>
-        <li> Prisma ( as ORM ) </li>
-        <li> Docker ( as Container Virtualization ) </li>
-        <li> Yarn ( as Package Manager ) </li>
+        <p> Nest JS ( as Framework ) </p>
+        <p> Jest & Pactum ( as Testing Framework ) </p>
+        <p> Prisma ( as ORM ) </p>
+        <p> Docker ( as Container Virtualization ) </p>
+        <p> Yarn ( as Package Manager ) </p>
     </ul>
     
     <h4> Architecture </h4>
     <ul>
-        <li> MVC ( Model View Controller )</li>
+        <p> MVC ( Model View Controller )</p>
     </ul>
     
     <h4> Design Patterns </h4>
     <ul>
-        <li> Decorator </li>
-        <li> Strategy </li>
+        <p> Decorator </p>
+        <p> Strategy </p>
     </ul>
 
 </div>
