@@ -8,9 +8,9 @@
 
 <div>
     <h4 align="center"> Technologies </h4>
-    <ul align="center">>
-        <li> Nest JS ( as Framework ) </li>
-        <li> Jest & Pactum ( as Testing Framework ) </li>
+    <ul>
+        <li align="center"> Nest JS ( as Framework ) </li>
+        <li align="center"> Jest & Pactum ( as Testing Framework ) </li>
         <li> Prisma ( as ORM ) </li>
         <li> Docker ( as Container Virtualization ) </li>
         <li> Yarn ( as Package Manager ) </li>
