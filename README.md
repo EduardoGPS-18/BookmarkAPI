@@ -29,8 +29,8 @@
 <div align="center">
     <h4 text-align="center"> Design Patterns </h4>
     <ul>
-        <p text-align="center"> Decorator </p>
-        <p text-align="center"> Strategy </p>
+        <p> Decorator </p>
+        <p> Strategy </p>
     </ul>
 </div>
 
