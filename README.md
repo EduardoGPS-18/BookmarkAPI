@@ -16,13 +16,15 @@
         <p> Yarn ( as Package Manager ) </p>
     </ul>
 </div>
-   
+
+
 <div align="center">
     <h4> Architecture </h4>
     <ul>
         <p> MVC ( Model View Controller )</p>
     </ul>
 </div>
+
 
 <div align="center">
     <h4> Design Patterns </h4>
