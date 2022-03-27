@@ -8,18 +8,25 @@
 
 <div align="center">
     <h4> Technologies </h4>
-    - Nest JS ( as Framework )
-    - Jest & Pactum ( as Testing Framework )
-    - Prisma ( as ORM )
-    - Docker ( as Container Virtualization )
-    - Yarn ( as Package Manager ) 
+    <ul>
+        <li> Nest JS ( as Framework ) </li>
+        <li> Jest & Pactum ( as Testing Framework ) </li>
+        <li> Prisma ( as ORM ) </li>
+        <li> Docker ( as Container Virtualization ) </li>
+        <li> Yarn ( as Package Manager ) </li>
+    </ul>
+    
+    <h4> Architecture </h4>
+    <ul>
+        <li> MVC ( Model View Controller )</li>
+    </ul>
+    
+    <h4> Design Patterns </h4>
+    <ul>
+        <li> Decorator </li>
+        <li> Strategy </li>
+    </ul>
+
 </div>
 
     
-#### Architecture ####
-- MVC ( Model View Controller )
-
-
-#### Design Patterns ####
-- Decorator
-- Strategy
