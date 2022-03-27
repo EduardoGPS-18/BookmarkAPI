@@ -24,7 +24,6 @@
         <p> Decorator </p>
         <p> Strategy </p>
     </ul>
-
 </div>
 
     
