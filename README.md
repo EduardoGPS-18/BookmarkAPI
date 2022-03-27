@@ -6,12 +6,14 @@
 
 <div align="center"> <img src=https://img.shields.io/badge/Decorator-lightred> <img src=https://img.shields.io/badge/Strategy-lightgrey> </div>
 
-#### Technologies ####
-- Nest JS ( as Framework )
-- Jest & Pactum ( as Testing Framework )
-- Prisma ( as ORM )
-- Docker ( as Container Virtualization )
-- Yarn ( as Package Manager ) 
+<div align="center">
+    <h4> Technologies </h4>
+    - Nest JS ( as Framework )
+    - Jest & Pactum ( as Testing Framework )
+    - Prisma ( as ORM )
+    - Docker ( as Container Virtualization )
+    - Yarn ( as Package Manager ) 
+</div>
 
     
 #### Architecture ####
