@@ -6,8 +6,8 @@
 
 <div align="center"> <img src=https://img.shields.io/badge/Decorator-lightred> <img src=https://img.shields.io/badge/Strategy-lightgrey> </div>
 
-<div align="center">
-    <h4> Technologies </h4>
+<div>
+    <h4 align="center"> Technologies </h4>
     <ul>
         <li> Nest JS ( as Framework ) </li>
         <li> Jest & Pactum ( as Testing Framework ) </li>
